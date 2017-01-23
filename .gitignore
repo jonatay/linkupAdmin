@@ -7,4 +7,5 @@ compiled
 .swp
 .vscode
 /config/secrets.js
-/config/development.json
+!/config/development.json
+!/config/development.json
