@@ -4,3 +4,5 @@
 karma.conf.js
 tests.webpack.js
 /api/promiseMiddleware.js
+/compiled/
+/compiled/server.dev.js

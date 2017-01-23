@@ -1,0 +1,5 @@
+{
+  "dbLinkup": {
+    "seqConnStr" : "postgres://postgres:postgres@localhost:5432/Linkup"
+  }
+}
