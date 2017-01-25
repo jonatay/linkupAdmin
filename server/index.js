@@ -7,6 +7,8 @@ import initExpress from './init/express';
 import initRoutes from './init/routes';
 import renderMiddleware from './render/middleware';
 
+import initApi from './api';
+
 const app = express();
 
 /*
@@ -44,6 +46,14 @@ initExpress(app);
  * Note: Some of these routes have passport and database model dependencies
  */
 initRoutes(app);
+
+
+
+/* init OWN API
+* jrt-170125
+*
+* */
+initApi(app);
 
 /*
  * This is where the magic happens. We take the locals data we have already
