@@ -1,3 +1,11 @@
+# linkupAdmin
+
+## What
+based on the react-go tpl,
+1. adapt for own api
+
+
+
 # reactGo
 
 [![Dependency Status][dep-status-img]][dep-status-link] [![devDependency Status][dev-dep-status-img]][dev-dep-status-link]
