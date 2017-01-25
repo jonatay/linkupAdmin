@@ -1,9 +1,12 @@
 # linkupAdmin
 
 ## What
-based on the react-go tpl,
+based on the react-go tpl:
 1. adapt for own api
-
+2. redo main pages w bootstrap (find bootswatch bs js ver)
+3. pages
+3.1 employees
+3.2 access log
 
 
 # reactGo
