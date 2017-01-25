@@ -4,6 +4,9 @@
 based on the react-go tpl
 
 1. adapt for own api
+ 1. init api
+ 2. get routes
+  1. employees
 2. redo main pages w bootstrap (find bootswatch bs js ver)
 3. pages
   1. employees
